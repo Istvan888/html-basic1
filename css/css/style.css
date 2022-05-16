@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+html{
+    
+}
+
+
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+#bio-header {
+    color: brown;
+    font-family: Roboto, sans-serif;
+}
+#skills-header{
+    color: coral;
+}
+.content {
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: justify;
+    line-height: normal;
+    font-weight: 900;
+}
+.bold{
+    font-weight: bold;
+    color: black;
+    
+}
+.img-div{
+    background-color: lightblue;
+}
+
+img {
+    width: 14%;
+    box-shadow: 3px 3px 7px black;
+    margin:1%
+    
+}
+#img-1 {
+    display: none;
+}
